@@ -19,6 +19,7 @@ const App = () => {
     setCounter(counter - 8)
   }
   
+  // .yaml
   return (
     <div style={{
       display: 'flex',
